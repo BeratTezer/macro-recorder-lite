@@ -17,15 +17,6 @@ A lightweight desktop app to **record-like macro rows and replay them** using a 
 
 ---
 
-## Screenshot / Icon
-
-Place your icons at the repo root:
-
-- `icon.png` (app icon in PNG)
-- `icon.ico` (Windows build)
-
----
-
 ## Installation (Dev)
 
 ### 1) Using pipenv (recommended)
